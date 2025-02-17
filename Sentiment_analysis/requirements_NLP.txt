@@ -1,0 +1,15 @@
+﻿# Thư viện hệ thống 
+os-sys==0.1.0
+
+# Thư viện xử lý dữ liệu 
+pyvi==0.1.1 
+sentence-transformers==2.2.2 
+scikit-learn==1.3.0 
+joblib==1.3.2 
+
+# Thư viện kết nối MongoDB 
+pymongo==4.6.0
+
+# Các thư viện khác 
+numpy==1.23.5 
+re==2.2.1
