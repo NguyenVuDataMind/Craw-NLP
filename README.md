@@ -1,5 +1,13 @@
 User Sentiment Analysis on Facebook
 
+Priority Notice
+
+For a better understanding of this project, we recommend watching the presentation video first:
+
+Presentation Video: Watch Now
+
+Presentation Slides: View Here
+
 Introduction
 
 This project aims to analyze user sentiment on Facebook by collecting and processing data from posts, comments, and reactions in groups and pages.
@@ -79,7 +87,6 @@ Since posts on pages are created by page owners, analyzing them using NLP always
  / (TotalReactions)
 
 Note: The Sentiment Score ranges from -1 to 1. The closer to -1, the more negative the sentiment; the closer to 1, the more positive the sentiment. A score of 0 indicates a balance between positive and negative reactions.
-
 Additional Resources
 
 Presentation Slides: View Here
